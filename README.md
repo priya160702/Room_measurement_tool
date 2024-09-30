@@ -46,7 +46,7 @@ pip install opencv-python numpy
 - Run the script:
   ```bash
 python room_measurement.py
-```
+  ```
 - The webcam will open, and you'll be prompted to capture an image by pressing 'c'. Ensure that the image clearly shows multiple corners and features of the room.
 - Once the image is captured, the script will detect corners and edges.
 - You'll be asked to click on two points in the image that are 3 feet apart (these could be on walls or known features).
