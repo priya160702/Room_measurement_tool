@@ -18,6 +18,7 @@ This Python script captures an image of a room using your webcam, processes the 
 ### Install dependencies:
 ```bash
 pip install opencv-python numpy
+```
 
 ## How It Works
 1. **Image Capture:** The script opens your webcam and waits for you to press the 'c' key to capture an image.
